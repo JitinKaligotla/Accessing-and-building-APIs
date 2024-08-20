@@ -1,4 +1,5 @@
 # Accessing-and-building-APIs  
 
-I will upload the remainning files soon
-
+# Accessing-and-building-APIs  
+we are accessing APIs through python  
+before accessing create your own API Key by logging into NewsAPI Webiste
